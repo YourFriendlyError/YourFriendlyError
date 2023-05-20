@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @YourFriendlyError
 - Currently a student majoring in cybersecurity.
-- My HTB profile: https://app.hackthebox.com/profile/249546
+- My <a href="https://0xcmv.net/" target="_bank">portfolio</a>.
+- My HTB <a href="https://app.hackthebox.com/profile/249546" target="_blank">profile</a>.
+- How to reach me? Either here or preferably my <a href="mailto:contact@0xcmv.net" target="_blank">email</a>
 - I have nothing else to say.
 
 <!---
